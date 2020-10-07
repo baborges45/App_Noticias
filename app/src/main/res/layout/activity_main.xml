@@ -95,7 +95,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:text="Bruno Borges"
+        android:text="Bruno A Borges"
         app:layout_constraintBaseline_toBaselineOf="@+id/button"
         app:layout_constraintStart_toStartOf="parent" />
 
